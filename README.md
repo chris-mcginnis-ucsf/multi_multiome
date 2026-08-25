@@ -3,7 +3,7 @@
 Companion code for McGinnis, Conrad, Yao, Satpathy & Gartner (2026). "Sample multiplexing for joint RNA-ATAC multiomic profiling using MULTI-seq." Currently in review at Nature Protocols.
 
 All R objects (including Seurat objects) are available for download at synapse (https://www.synapse.org/Synapse:syn74846733). 
-Raw and processed data files are available on GEO (GSE330649). 
+Raw and processed data files are available on GEO (GSE330650). 
 
 Code for visualizations provided in 'multi_multi_viz.R'
 
